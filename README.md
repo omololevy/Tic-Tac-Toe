@@ -31,7 +31,7 @@ This program allows players to;
 
 ## Setup instructions
 * Clone the program from the [online repo](https://github.com/omololevy/Tic-Tac-Toe)
-* Click on the green <button btn-success>code </button> button to clone or download
+* Click on the green <button>code </button> button to clone or download
 
 
 
