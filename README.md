@@ -25,12 +25,12 @@ This program allows players to;
 
 
 ## Project live site
-  This is the live .[ Click for the demo](https://github.com/omololevy/Tic-Tac-Toe)
+  This is the live [link to the repo ](https://github.com/omololevy/Tic-Tac-Toe)
 
   ![Image](./assets/Tic-tac-toe.gif)
 
 ## Setup instructions
-* Clone the program from [Online repo](https://github.com/omololevy/Tic-Tac-Toe)
+* Clone the program from the [online repo](https://github.com/omololevy/Tic-Tac-Toe)
 * Click on the green button to clone or download
 
 
